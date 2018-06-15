@@ -24,5 +24,5 @@ Xavier Gastaldi 저자는 이 방법을 발전시켰다.
 ## Cutout [Improved Regularization of Convolutional Neural Networks with Cutout]
 input image의 사각형으로 랜덤하게 마킹 후 학습한다. 
 
-Shake-Shake와 
+Shake-Shake와 연계를 추천한다.
 
