@@ -19,7 +19,7 @@ Xavier Gastaldi 저자는 이 방법을 발전시켰다.
 1.1 동기 Data augmentation techniques는 가장 편하게 사용 되는 방법이지만, input image와 intermediate representation 사이에 
 차이가 크지 않다. 이를 점을 Shake-Shake regularization은 사용한다.
 
-
+xi+1 = xi + αiF(xi,W(1) i ) + (1−αi)F(xi,W(2) i ) 
 
 ## Cutout [Improved Regularization of Convolutional Neural Networks with Cutout]
 저자의 github : https://github.com/uoguelph-mlrg/Cutout
